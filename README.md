@@ -226,8 +226,3 @@ T2  U001: "the finance one."
 - [Pydantic](https://docs.pydantic.dev/) for structured output and log models
 - Python 3.13, Jupyter
 
----
-
-## License
-
-Add a license of your choice (e.g. MIT) before publishing.

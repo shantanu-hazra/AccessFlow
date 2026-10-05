@@ -1,4 +1,4 @@
-# AccessFlow
+# AccessFlow 
 
 A LangGraph-based agent that processes natural-language **access requests** (e.g. *"I need finance reporting system access for 10 days"*) and applies a deterministic, tier-based access policy to decide whether to approve, escalate, reject, or ask for clarification.
 
